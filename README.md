@@ -21,3 +21,6 @@ Some dudes
 
 ## System
 Some OS
+
+## Copyright
+Copyrighted
