@@ -24,3 +24,7 @@ Some OS
 
 ## Copyright
 Copyrighted
+
+## How to
+
+Add to the rep
