@@ -3,6 +3,9 @@
 This repository is for showing how Git and GitHub work
 More horseshit will be added later
 
+## Intro
+This is number one
+
 ## Purpose
 
 Sample website with plenty of files for demos
